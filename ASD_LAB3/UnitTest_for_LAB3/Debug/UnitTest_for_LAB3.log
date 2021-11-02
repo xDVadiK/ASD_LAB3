@@ -1,0 +1,4 @@
+﻿  UnitTest_for_LAB3.cpp
+C:\Users\xdvad\source\repos\ASD_LAB3\ASD_LAB3\Binary_Search_Tree_for_LAB3.h(465): warning C4715: Binary_Search_Tree::contains: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\xdvad\source\repos\ASD_LAB3\Debug\UnitTest_for_LAB3.lib и объект C:\Users\xdvad\source\repos\ASD_LAB3\Debug\UnitTest_for_LAB3.exp
+  UnitTest_for_LAB3.vcxproj -> C:\Users\xdvad\source\repos\ASD_LAB3\Debug\UnitTest_for_LAB3.dll
